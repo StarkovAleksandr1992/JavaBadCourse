@@ -6,12 +6,34 @@
 
     <groupId>ru.starkov</groupId>
     <artifactId>JavaBadCourse</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Trees</module>
+        <module>Functions</module>
+        <module>RecursiveDescentArithmeticParser</module>
+        <module>Streams</module>
+        <module>Reflection</module>
+        <module>CovarianceAndContrvariance</module>
+        <module>ProcessInvoker</module>
+        <module>InputOutputStreams</module>
+        <module>Multithreading</module>
+        <module>LeetCode</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.9.2</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 </project>
