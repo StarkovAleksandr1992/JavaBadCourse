@@ -19,6 +19,7 @@
         <module>InputOutputStreams</module>
         <module>Multithreading</module>
         <module>LeetCode</module>
+        <module>Databases</module>
     </modules>
 
     <properties>
