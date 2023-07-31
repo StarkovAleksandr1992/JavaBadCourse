@@ -1,7 +1,10 @@
 package ru.starkov.scientists_battle;
 
+import ru.starkov.util.ThreadSafe;
+
 import java.util.concurrent.ConcurrentHashMap;
 
+@ThreadSafe
 public class GarbageDump {
 
     private static volatile GarbageDump instance;

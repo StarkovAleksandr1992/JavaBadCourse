@@ -1,12 +1,14 @@
 package ru.starkov.scientists_battle;
 
+import ru.starkov.util.ThreadSafe;
+
 import java.util.Random;
 
+@ThreadSafe
 public class Fabric {
 
     public Fabric() {
     }
-
     public void produceGarbage(int numberOfTheNight) {
         if (numberOfTheNight < 1) {
             throw new IllegalArgumentException("Счет ночей должен начинаться с 1");

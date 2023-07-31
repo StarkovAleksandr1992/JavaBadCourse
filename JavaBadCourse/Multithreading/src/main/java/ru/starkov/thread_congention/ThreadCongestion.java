@@ -5,7 +5,7 @@ public class ThreadCongestion {
     private static final int ITERATIONS_PER_THREAD = 10;
 
     public static void main(String[] args) {
-        System.out.println(Thread.currentThread().isVirtual());
+//        System.out.println(Thread.currentThread().isVirtual());
         for (int i = 0; i < NUM_THREADS; i++) {
             Thread thread = new Thread(() -> {
                 for (int j = 0; j < ITERATIONS_PER_THREAD; j++) {

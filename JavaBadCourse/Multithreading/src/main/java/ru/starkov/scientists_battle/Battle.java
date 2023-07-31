@@ -5,6 +5,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+
 public class Battle {
     public static void main(String[] args) throws InterruptedException, ExecutionException {
         GarbageDump garbageDump = GarbageDump.getInstance();
