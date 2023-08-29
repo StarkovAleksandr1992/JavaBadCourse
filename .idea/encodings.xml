@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CovarianceAndContrvariance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CovarianceAndContrvariance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Databases/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Databases/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Functions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Functions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InputOutputStreams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InputOutputStreams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LeetCode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LeetCode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Multithreading/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Multithreading/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProcessInvoker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProcessInvoker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursiveDescentArithmeticParser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursiveDescentArithmeticParser/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Reflection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Reflection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Streams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Streams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Trees/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Trees/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+# Используйте официальный образ PostgreSQL
+FROM postgres:latest
+
+# Определите переменные окружения для логина и пароля
+ENV POSTGRES_USER=postgres
+ENV POSTGRES_PASSWORD=mypassword
+
+# Создайте папку для монтирования volumes
+RUN mkdir -p /var/lib/postgresql/data
+
+# Укажите рабочую директорию
+WORKDIR /var/lib/postgresql/data
